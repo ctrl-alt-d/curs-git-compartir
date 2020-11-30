@@ -1,0 +1,2 @@
+# curs-git-compartir
+esborrar
